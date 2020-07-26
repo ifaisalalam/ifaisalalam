@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 <img align="center" src="https://github-readme-stats-git-master.ifaisalalam.vercel.app/api/top-langs/?username=ifaisalalam&theme=buefy&count_private=true&show_icons=true" />
-<img align="center" src="https://github-readme-stats-git-master.ifaisalalam.vercel.app/api?username=ifaisalalam&show_icons=true&count_private=true&theme=buefy&line_height=27&show_icons=true" alt="Faisal Alam's github stats" />
+<img align="center" src="https://github-readme-stats-git-master.ifaisalalam.vercel.app/api?username=ifaisalalam&show_icons=true&count_private=true&theme=buefy&line_height=27" alt="Faisal Alam's github stats" />
 
 
 ---
