@@ -3,17 +3,14 @@
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][4.1]][4]
 
 [1.1]: https://raw.githubusercontent.com/ifaisalalam/ifaisalalam/master/assets/social-icons/facebook.png
 [2.1]: https://raw.githubusercontent.com/ifaisalalam/ifaisalalam/master/assets/social-icons/twitter.png
-[3.1]: https://raw.githubusercontent.com/ifaisalalam/ifaisalalam/master/assets/social-icons/github.png
-[4.1]: https://raw.githubusercontent.com/ifaisalalam/ifaisalalam/master/assets/social-icons/linkedin.png
+[3.1]: https://raw.githubusercontent.com/ifaisalalam/ifaisalalam/master/assets/social-icons/linkedin.png
 
 [1]: https://fb.me/ifaisalalam
 [2]: https://twitter.com/ifaisalalam
-[3]: https://github.com/ifaisalalam
-[4]: https://www.linkedin.com/in/ifaisalalam
+[3]: https://www.linkedin.com/in/ifaisalalam
 
 <!--
 **ifaisalalam/ifaisalalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
