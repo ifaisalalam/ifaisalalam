@@ -1,4 +1,4 @@
-### Hi there, I am [Faisal!](https://faisalalam.engineer) 👋
+### Hi there, I am [Faisal!](https://www.linkedin.com/in/ifaisalalam) 👋
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
